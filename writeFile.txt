@@ -1,11 +1,9 @@
+hello,word!
 Did you like village ?
+Yes,I'like!
 --Yes I did.
-我想提一个pr
-ni从这里分割
-是是是
-marke
-No I didn't. no  no  n
-你觉得怎样？？
-How are you?
-老特6666
+what‘s your name?
+my name is yonghao wu .
+what do you do for a living?
+I am a programmer.
 
