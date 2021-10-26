@@ -1,5 +1,11 @@
+hello,word!
 Did you like village ?
+Yes,I'like!
 --Yes I did.
+what‘s your name?
+my name is yonghao wu .
+what do you do for a living?
+I am a programmer.
 我想提一个pr
 ni从这里分割
 其实我也想改变，最终的遗憾
